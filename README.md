@@ -64,7 +64,7 @@ Add the following to your config:
   "mcpServers": {
     "nextcloud-calendar": {
       "command": "node",
-      "args": ["/home/gohv/lab/calendarhelper/dist/index.js"]
+      "args": ["/home/USER/SOMEFOLDER/calendarhelper/dist/index.js"]
     }
   }
 }
