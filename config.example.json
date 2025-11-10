@@ -1,0 +1,8 @@
+{
+  "nextcloud": {
+    "serverUrl": "https://your-nextcloud-instance.com",
+    "username": "your-username",
+    "password": "your-password-or-app-password",
+    "calendarPath": "/remote.php/dav/calendars/your-username/"
+  }
+}
